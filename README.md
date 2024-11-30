@@ -21,7 +21,7 @@ My Interests:</br>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating new projects<br>📚 I'm currently learning  Artificial intelligence and Machine Learning <br>🎯 Goals: want to be in a good postion in IT fielf<br>🎲 Fun fact: Nothing </p>
 
 ###
 
