@@ -4,16 +4,16 @@
 
 <p align="left"> About Me 👋
 My Name is A Santhosh i graduated 🎓 B.E in Artificial intelligence and Machine Learning (U.G)
-Hi there! I'm a passionate developer with a keen interest in building solutions that solve real-world problems. My expertise lies in creating interactive and user-friendly applications using modern technologies. I enjoy learning, experimenting with new tools, and contributing to open-source projects.
+Hi there! I'm a passionate developer with a keen interest in building solutions that solve real-world problems. My expertise lies in creating interactive and user-friendly applications using modern technologies. I enjoy learning, experimenting with new tools, and contributing to open-source projects.</br>
 
-What I Do:
-💻 Develop applications that leverage AI and automation.
-🌱 Explore new technologies to stay ahead in the tech world.
-🤝 Collaborate on projects to drive impactful innovations.
-My Interests:
-🌐 AI-powered solutions
-📱 App development
-🌱 Tech for sustainability</p>
+What I Do:</br>
+💻 Develop applications that leverage AI and automation.</br>
+🌱 Explore new technologies to stay ahead in the tech world.</br>
+🤝 Collaborate on projects to drive impactful innovations.</br>
+My Interests:</br>
+🌐 AI-powered solutions</br>
+📱 App development</br>
+🌱 Tech for sustainability </p>
 
 ###
 
