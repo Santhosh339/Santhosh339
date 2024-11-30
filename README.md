@@ -56,10 +56,11 @@
       <a href="https://youtube.com/@santhosha-t4y?si=5X7OA2q8htCWaoP1">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
         <a/>
-          <a href="https://x.com/A39Santhosh?t=7RGTIC92PoR9KBikeyclqQ&s=08">
+          
+          <a href="https://www.instagram.com/santhosh_offical3/profilecard/?igsh=MXUzM2w0a3B4aHRyYg==">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
             <a/>
-              <a href="https://www.instagram.com/santhosh_offical3/profilecard/?igsh=MXUzM2w0a3B4aHRyYg==">
+              <a href="https://x.com/A39Santhosh?t=7RGTIC92PoR9KBikeyclqQ&s=08">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
                 <a/>
 </div>
